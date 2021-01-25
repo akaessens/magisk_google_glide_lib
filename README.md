@@ -7,6 +7,11 @@ Of course it can be used alongside a microG installation.
 
 The library file is extracted from OpenGapps.
 
+
+## Download
+
+https://github.com/akaessens/magisk_google_glide_lib/releases/latest
+
 ## Build
 
 ```bash
